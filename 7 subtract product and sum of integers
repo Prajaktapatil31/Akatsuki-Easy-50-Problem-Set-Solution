@@ -7,7 +7,6 @@ class Solution {
             mul*=last;
             n/=10;
         }
-
         return mul-sum;
     }
 }
